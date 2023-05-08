@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "140706561211",
+    "project_id": "homechef-chefapp",
+    "storage_bucket": "homechef-chefapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140706561211:android:7d714a800b10d5471a3d9e",
+        "android_client_info": {
+          "package_name": "pk.homechef.chefapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140706561211-enghhtt1uhu3k6b3fpa1rf4rbqhajp3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpeZD_Ro2ON7O-blhHy_GidJCqy4pTLaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140706561211-enghhtt1uhu3k6b3fpa1rf4rbqhajp3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
